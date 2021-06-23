@@ -1,0 +1,52 @@
+@media only screen and (max-width: 480px) {
+  h1 {
+    font-size: 2rem;
+  }
+  .again {
+    font-size: 1rem;
+  }
+  .between {
+    margin-top: 8px;
+  }
+  .second {
+    font-size: 10px;
+    margin-left: 1px;
+  }
+  .third {
+    font-size: 10px;
+    margin-left: 1px;
+  }
+}
+
+@media only screen and (max-width: 685px) {
+  .second {
+    font-size: 10px;
+    margin-left: 1px;
+  }
+  .third {
+    font-size: 10px;
+    margin-left: 1px;
+  }
+}
+
+@media only screen and (max-width: 830px) {
+  h1 {
+    font-size: 2rem;
+  }
+  .again {
+    font-size: 1rem;
+  }
+  .between {
+    margin-top: 8px;
+    font-size: 10px;
+  }
+  .message,
+  .label-score,
+  .label-highscore {
+    font-size: 15px;
+  }
+  .guess {
+    width: 150px;
+    height: auto;
+  }
+}
